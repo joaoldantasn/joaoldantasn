@@ -1,7 +1,7 @@
 ### Olá! Me chamo João Lucas
 
 - 🔭 Em busca de uma oportunidade no mercado de trabalho
-- 🌱 Estudando Java Spring Boot e Angular 
+- 🌱 Estudando Java Spring Boot e React 
 - 😄 Pronouns: Ele/Dele
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoldantasn)
